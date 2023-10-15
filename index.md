@@ -1,4 +1,4 @@
-# norway travel
+# NORWAY TRAVEL
 
 >“The world is a canvas to the imagination.” – Henry David Thoreau
 
@@ -7,13 +7,12 @@
 
 
 
-**useful websites**:
+**Useful websites**:
 
-1.[visitnorway](https://www.visitnorway.com/)
-  
-2.[fjordnorway](https://www.fjordnorway.com/en)
-  
-3.[flysas](https://www.flysas.com/)
+1. [visitnorway](https://www.visitnorway.com/)
+2. [fjordnorway](https://www.fjordnorway.com/en)
+3. [flysas](https://www.flysas.com/)
+4. [visitoslo](https://www.visitoslo.com/)
 
 
 
@@ -22,6 +21,16 @@
 * Whale watching
 * Alpine skiing
 * Experience the viking culture
+* See the Northern Lights
+* Visit historical towns
+
+
+
+- [ ]whale watching
+- [ ]apline skiing
+
+
+  😃enjoy your trip
 
 
 
