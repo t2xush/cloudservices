@@ -18,10 +18,10 @@ useful websites:
 
 Things to do:
 
--[ ] Whale watching
+- [ ] Whale watching
 
--[ ] Alpine skiing
+- [ ] Alpine skiing
 
--[ ] Experience the Viking culture
+- [ ] Experience the Viking culture
 
 
