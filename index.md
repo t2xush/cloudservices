@@ -8,7 +8,7 @@
 😃welcome 
 
 
-useful websites:
+**useful websites**:
 
 1.[visitnorway](https://www.visitnorway.com/)
   
@@ -18,13 +18,15 @@ useful websites:
 
 
 
-Things to do:
+**Things to do**:
 
--[ √] Whale watching
+-Whale watching
 
--[ √] Alpine skiing
+-Alpine skiing
 
--[ √] Experience the viking culture
+-Experience the viking culture
+
+
 
 
 
