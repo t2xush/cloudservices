@@ -7,6 +7,9 @@
 ![Nusfjord Arctic Resort](https://assets.simpleviewcms.com/simpleview/image/fetch/c_fill,h_1080,w_1920/f_jpg/q_65/https://images.citybreakcdn.com/image.aspx%3FImageId%3D5914382)
 
 
+😃welcome to norway!
+
+
 **Useful websites**:
 
 1. [visitnorway](https://www.visitnorway.com/)
@@ -27,7 +30,10 @@
 
 
 
-  😃enjoy your trip
+
+
+
+
 
 
 
