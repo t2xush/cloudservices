@@ -7,12 +7,12 @@
 
 
 useful websites:
--[visitnorway](https://www.visitnorway.com/)
--[fjordnorway](https://www.fjordnorway.com/en)
--[flysas](https://www.flysas.com/)
+*[visitnorway](https://www.visitnorway.com/)
+*[fjordnorway](https://www.fjordnorway.com/en)
+*[flysas](https://www.flysas.com/)
 
 
 Things to do:
--[Whale watching]
--[Alpine skiing]
--[Experience the Viking culture]
+-[]Whale watching
+-[]Alpine skiing
+-[]Experience the Viking culture
