@@ -8,6 +8,7 @@
 
 
 useful websites:
+
 1.[visitnorway](https://www.visitnorway.com/)
   
 2.[fjordnorway](https://www.fjordnorway.com/en)
@@ -16,6 +17,7 @@ useful websites:
 
 
 Things to do:
+
 -[] Whale watching
 
 -[] Alpine skiing
