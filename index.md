@@ -25,6 +25,7 @@
 - [x] Visit historical towns
 
 
+
 > [!IMPORTANT]
 > In Norway, the most important emergency phone number to remember is 112. This number connects you to all emergency services, including police, fire, ambulance, and other urgent assistance. When you encounter a serious or life-threatening situation, dial 112 to get the help you need quickly.
 
