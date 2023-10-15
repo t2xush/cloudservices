@@ -26,9 +26,6 @@
 
 
 
-- [ ]whale watching
-- [ ]apline skiing
-
 
   😃enjoy your trip
 
